@@ -28,6 +28,7 @@ I ❤️ to read Novels in my free time.
 
 ## 📈 Statistics
 
+![](https://komarev.com/ghpvc/?username=arshadiqbal007&color=blue)
 <br>
 <p align="center">
 <a href="https://github.com/arshadiqbal007">
