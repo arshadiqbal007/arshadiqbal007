@@ -28,16 +28,15 @@ I ❤️ to read Novels in my free time.
 
 ## 📈 Statistics
 
-<div align="center">
-  
-![counter](https://enz0y3e2nxtyn0a.m.pipedream.net)
-</div>
-<a href="https://github.com/arshadiqbal007/arshadiqbal007">
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=arshadiqbal007&theme=great-gatsby&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/arshadiqbal007/arshadiqbal007">
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadiqbal007&layout=compact&theme=great-gatsby&show_icons=true&langs_count=6"/>
-</a>
+<br>
+<p align="center">
+<a href="https://github.com/arshadiqbal007">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadiqbal007&layout=compact&theme=beufy"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/RishankPratik">
+<img src="https://github-readme-stats.vercel.app/api?username=arshadiqbal007&count_private=true&show_icons=true&theme=vue"/></a>
+</p>
 
 ## Connect with me:
 
