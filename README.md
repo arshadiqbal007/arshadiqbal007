@@ -35,7 +35,7 @@ I ❤️ to read Novels in my free time.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadiqbal007&layout=compact&theme=beufy"/></a>
 </p>
 <p align="center">
-<a href="https://github.com/RishankPratik">
+<a href="https://github.com/arshadiqbal007">
 <img src="https://github-readme-stats.vercel.app/api?username=arshadiqbal007&count_private=true&show_icons=true&theme=vue"/></a>
 </p>
 
