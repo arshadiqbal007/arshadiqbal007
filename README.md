@@ -1,4 +1,3 @@
-<div align="center">
 <img src="./arshadiqbal007.gif" alt="@arshadiqbal007">
 
 # Hello!, Arshad here <img src="./wave.gif" width="30px">
